@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there, I'm Akshita! 👋
 
-<!--
-**akshitalpu6367-web/akshitalpu6367-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science & Engineering Student | Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a first-year B.Tech student pursuing **Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning**.
+
+I'm passionate about technology, innovation and continuous learning. I enjoy exploring new technologies, developing my programming skills and turning ideas into practical projects.
+
+### 🚀 About Me
+
+- 🎓 Pursuing B.Tech in CSE (Artificial Intelligence & Machine Learning).
+- 💡 Passionate about Artificial Intelligence, Machine Learning and Web Development.
+- 🌱 Currently learning and improving my skills in Python and Frontend Development.
+- ⚡ A quick learner who enjoys exploring new concepts and solving challenges.
+- 🤝 Interested in collaboration, teamwork and building meaningful projects.
+- 🎯 Aspiring to grow as a technology professional and AI/ML Engineer.
+
+### 🛠️ Technical Skills
+
+**Programming Languages**
+- Python
+- JavaScript
+
+**Web Technologies**
+- HTML5
+- CSS3
+- Frontend Development
+
+**Areas of Interest**
+- Artificial Intelligence
+- Machine Learning
+- Web Development
+
+### 📌 What I'm Working Towards
+
+- Strengthening my programming and problem-solving fundamentals.
+- Building practical projects using Python and Web Technologies.
+- Exploring Artificial Intelligence and Machine Learning.
+- Learning new tools and technologies.
+- Contributing to collaborative projects and growing as a developer.
+
+### 🌐 Let's Connect!
+
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/akshita-gupta-4ab87a434)
+- 💻 GitHub: [@akshitalpu6367-web](https://github.com/akshitalpu6367-web)
+
+---
+
+⭐ *Always curious. Always learning. Always building.*
+
+Thanks for visiting my profile! 😊
